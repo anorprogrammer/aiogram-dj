@@ -1,1 +1,1 @@
-# aiogram-faster-bot
+# aiogram-faster-template
