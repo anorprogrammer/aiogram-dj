@@ -1,2 +1,2 @@
-# Aiogram-DJ
+# Aiogram-Dj
 ![Wave](white-sound-wave.gif)
